@@ -1,0 +1,17 @@
+{
+  "development": {
+    "host": "",
+    "database": "",
+    "username": "",
+    "password": "",
+    "dialect": "mysql"
+  },
+
+  "production": {
+    "host": "",
+    "database": "",
+    "username": "",
+    "password": "",
+    "dialect": "mysql"
+  }
+}
